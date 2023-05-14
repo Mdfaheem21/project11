@@ -1,0 +1,19 @@
+
+
+
+
+
+
+echo "welcome to niralee"
+
+printf "sdfghjk" "$var"
+
+var="welcome to the GIT version control system"
+echo "$var"
+
+now="$(date)"
+computer-name="$(hostname)"
+
+echo "current date and time : $now"
+
+echo "computername : $computer-name"
