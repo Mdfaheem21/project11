@@ -1,0 +1,25 @@
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~ HI i am learn GIT hub version control system so now i am practice this version control system so let b start now	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+		i was practice some commands  daily 
+
+		now see
+		 
+	
+
+  
+  * once you create useradd command now use this command 
+        # useradd<>faheem
+
+
+   you del useradd you use this command
+       # userdel<>faheem
+
+    groupadd use command 
+      #sudo gruopadd<>group name
+     
+    and you see groupadd or not use to this command 
+     cat etc/group
